@@ -6,9 +6,9 @@
 
 ## <u>🎨 Crafting Solutions. Innovating Ideas. Embracing Code.</u>
 
-Welcome to my GitHub! I’m a **Web Developer** and **Tech Enthusiast** who thrives on turning complex problems into simple, elegant solutions.
+I’m a **Web Developer** and **Tech Enthusiast** who thrives on transforming intricate challenges into streamlined, user-friendly solutions. My passion lies in creating **dynamic web applications** that don’t just work—they captivate, inform, and inspire. ✨
 
-With a knack for combining logic and creativity, I build dynamic web applications that engage, inform, and inspire.
+With a unique blend of **creativity** and **technical prowess**, I strive to build digital experiences that are as functional as they are visually appealing. Whether it's crafting sleek UIs or designing efficient backends, I love bridging the gap between **design** and **technology**.
 
 ## <u>🔧 Tech Stack </u>
 
@@ -28,7 +28,8 @@ With a knack for combining logic and creativity, I build dynamic web application
 
 - **Build Tools**:  
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 - **Database**:
   
@@ -53,16 +54,18 @@ With a knack for combining logic and creativity, I build dynamic web application
 
 ## <u> 🛠️ How I Build</u>
 
-I believe in the **art of clean code**—writing maintainable, scalable solutions that prioritize performance and user experience. 
-I constantly refine my coding practices, combining the best of **functional programming**, **OOP principles**, and **design patterns**.
+I believe in the **art of clean code**—writing maintainable, scalable solutions that prioritize performance and user experience.
+With expertise in leveraging modern tools like **React**, **Tailwind CSS**, and **Vite** to create responsive and performant applications
+I constantly refine my coding practices, combining the best of **functional programming** and **design patterns**.
 
 ## <u> 🌐 Let's Collaborate and Connect</u>
 
-- **LinkedIn**: [www.linkedin.com/in/joy-simiyu-880b71319]
-   
-- **Email**: [wanjirusimiyu@gmail.com]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joy-simiyu-880b71319)
 
-- **Instagram**: [https://www.instagram.com/png.wanjiru/]
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanjirusimiyu@gmail.com)
+
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/png.wanjiru/)
+
 
 If you’re looking for someone who can bring creative solutions to the table and turn ideas into reality 🌟, I’d love to connect!
 
