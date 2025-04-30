@@ -1,14 +1,14 @@
 # Hii 👋🏾 I'm Joy
 
-👩‍💻 **Full-stack Web and Mobile Developer** | Turning ideas into interactive digital experiences
+👩‍💻 **Full-stack Web Developer** | Turning ideas into interactive digital experiences
 
 <br>
 
 ## <u>🎨 Crafting Solutions. Innovating Ideas. Embracing Code.</u>
 
-I’m a **Web and Mobile Developer** and **Tech Enthusiast** who thrives on transforming intricate challenges into streamlined, user-friendly solutions. My passion lies in creating **dynamic web and mobile applications** that don’t just work—they captivate, inform, and inspire. ✨
+I’m a **Web Developer** and **Tech Enthusiast** who thrives on transforming intricate challenges into streamlined, user-friendly solutions. My passion lies in creating **dynamic web and mobile applications** that don’t just work—they captivate, inform, and inspire. ✨
 
-With a unique blend of **creativity** and **technical prowess**, I strive to build digital experiences that are as functional as they are visually appealing. Whether it's crafting sleek UIs, designing efficient backends or birthing intuitive mobile apps, I love bridging the gap between **design** and **technology**.
+With a unique blend of **creativity** and **technical prowess**, I strive to build digital experiences that are as functional as they are visually appealing. Whether it's crafting sleek UIs, designing efficient backends, I love bridging the gap between **design** and **technology**.
 
 ## <u>🔧 Tech Stack </u>
 
@@ -34,13 +34,7 @@ With a unique blend of **creativity** and **technical prowess**, I strive to bui
 - **Database**:
   
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- **Mobile**:
-
   
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)   
 
 
 - **Tools**:
@@ -48,7 +42,7 @@ With a unique blend of **creativity** and **technical prowess**, I strive to bui
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ## <u> 💼 Projects that Define My Journey </u>
 
